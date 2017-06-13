@@ -1,0 +1,28 @@
+{
+    "origin": [
+        "#o#",
+        "#o#",
+        "#o#",
+        "#o#",
+        "#emoji#",
+        "#emoji#",
+        "#emoji#",
+        "#emoji#",
+        "(#emote#)",
+        "(#emote#)",
+        "(#emote#) nice",
+        "i swear if i hear one more awoo i'm leaving this orbit"
+    ],
+    "o": ["o", "O"],
+    "emoji": ["🌙", "🎑", "○", "🌕", "🌑", "🌝", "🌚", "🌌"],
+    "emote": [
+        "orbits",
+        "is a large rock",
+        "rises sea level",
+        "lowers sea level",
+        "hurtles through space",
+        "reflects sunlight",
+        "experiences gravitational pull",
+        "is reflected in a pond"
+    ]
+}
